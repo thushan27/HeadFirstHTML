@@ -1,0 +1,36 @@
+body { 
+	font-family: sans-serif;
+}
+
+
+p {
+	color: maroon;
+}
+
+.greentea {
+		color: green;
+}
+
+.lightbluetea {
+ 			color: lightblue;
+}
+
+.bluetea {
+		color: blue;
+}
+
+.redtea {
+ 		color: red;
+}
+
+h1, h2 { 
+		color: gray;
+}
+	
+h1 { 
+	border-bottom: 1px solid black;
+}
+
+em {
+	font-family: serif;
+}
